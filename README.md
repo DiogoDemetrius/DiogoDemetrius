@@ -79,10 +79,7 @@ Me chamo Diogo Demetrius, tenho 23 anos e sou natural de Brasília - DF. Formado
     alt="Express" 
     title="Express"
     width="30px" 
-    style="padding-right: 10px;
-        background-color: white;
-        padding: 0px;
-        margin-right: 10px" 
+    style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" 
 />
 <img 
