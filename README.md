@@ -76,14 +76,6 @@ Me chamo Diogo Demetrius, tenho 23 anos e sou natural de Brasília - DF. Formado
 />
 <img 
     align="left" 
-    alt="Express" 
-    title="Express"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" 
-/>
-<img 
-    align="left" 
     alt="Laravel" 
     title="Laravel"
     width="30px" 
@@ -130,6 +122,14 @@ Me chamo Diogo Demetrius, tenho 23 anos e sou natural de Brasília - DF. Formado
     style="padding-right: 10px;
         background-color:" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Express" 
+    title="Express"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" 
 />
 
 
