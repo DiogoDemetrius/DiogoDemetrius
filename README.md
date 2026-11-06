@@ -2,11 +2,13 @@
 
 **`Desenvolvedor Fullstack`**
 
-Programador formado em ADS.
+<p>
+    Programador formado em ADS.
+</p>
 
-</br>
-
-Criando soluções para transformar vidas e negócios!
+<p>
+    Criando soluções para transformar vidas e negócios!
+</p>
 
 <p align="left">
     </a> 
