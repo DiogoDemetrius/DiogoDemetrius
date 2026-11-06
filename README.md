@@ -2,7 +2,8 @@
 
 **`Desenvolvedor Fullstack`**
 
-Me chamo Diogo Demetrius, tenho 23 anos e sou natural de Brasília - DF. Formado em Análise e Desenvolvimento de Sistemas no CEUB. Sou apaixonado por tecnologia e estou sempre em busca de aprender mais desse nosso mundo de programação. Faço principalmente desenvolvimento backend mas também sei um pouco de front e aqui compartilho um pouco de alguns projetos que fiz, espero que gostem.
+Programador formado em ADS.
+Criando soluções para transformar vidas e negócios!
 
 <p align="left">
     </a> 
